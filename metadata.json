@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow — Personal Expense Tracker",
+  "description": "A minimalist financial dashboard for tracking income, expenses, transaction history, spending analytics, and monthly budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
